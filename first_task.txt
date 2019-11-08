@@ -1,0 +1,13 @@
+Veronika Bogdanovich|eggs|5
+Ann Metel|bread|2
+Ann Metel|milk|6
+Ann Metel|chocolate|4
+Irina Vaskova|cake|8
+Irina Vaskova|pie|9
+Veronika Bogdanovich|cheese|2
+Veronika Bogdanovich|milk|2
+Veronika Bogdanovich|bacon|2
+Irina Vaskova|milk|2
+Alex Mix|cheese|4
+Can Yaman|coffee|8
+John Doe|milk|9
